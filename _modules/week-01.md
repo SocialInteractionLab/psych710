@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: Week 1: Intro & Recap 
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Mon. Jan 22
+: [Estimation Review](#)
+  : [Experimentology Chap. 5](https://experimentology.io/005-estimation.html)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Wed. Jan 24
+: [Inference Review](#)
+  : [Experimentology Chap. 6](https://experimentology.io/006-inference.html)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Fri. Jan 26
+: **Lab**{: .label .label-purple } [TBD](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
