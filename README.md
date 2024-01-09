@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PSYCH 710: Statistical Methods II
+title: PSYCH 710
 nav_exclude: true
 permalink: /:path/
 seo:
