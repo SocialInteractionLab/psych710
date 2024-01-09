@@ -1,23 +1,17 @@
 ---
-title: Basic Data Structures
+title: >
+  Week 2: Power
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jan 29 
+: [General Linear Model](#) 
+  : - [Experimentology 7.1-7.2](https://experimentology.io/007-models.html#regression-models)
+: **HW 1 due**{: .label .label-red }
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jan 31
+: [Power Analysis](#)
+  : - [Experimentology 10.4](https://experimentology.io/010-sampling.html#sample-size-planning)
+    - [Cohen (1992)](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Feb 2
+: **Lab**{: .label .label-purple } [TBD](#)
