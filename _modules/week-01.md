@@ -1,14 +1,16 @@
 ---
-title: Week 1: Intro & Recap 
+title: >
+    Week 1: Intro & Recap 
 ---
 
 Mon. Jan 22
-: [Estimation Review](#)
+: [Estimation Review](https://psych252.github.io/psych252book/linear-model-1.html)
   : [Experimentology Chap. 5](https://experimentology.io/005-estimation.html)
 
 Wed. Jan 24
-: [Inference Review](#)
+: [Inference Review]()
   : [Experimentology Chap. 6](https://experimentology.io/006-inference.html)
+  : [Golems](/assets/readings/golems.pdf)
 
 Fri. Jan 26
 : **Lab**{: .label .label-purple } [TBD](#)
