@@ -42,13 +42,9 @@ schedule:
       - name: Section
         start: 9:00 AM
         end: 11:00 AM
-        location: Brogden 228
+        location: Brogden 228/311
       - name: Section
         start: 1:30 PM
         end: 3:30 PM
         location: Brogden 228
-      - name: Section
-        start: 9:00 AM
-        end: 11:00 AM
-        location: Brogden 311
 ---
