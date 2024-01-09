@@ -1,3 +1,13 @@
+---
+layout: home
+title: PSYCH 710: Statistical Methods II
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Course
+  name: PSYCH 710
+---
+
 # PSYCH 710: Statistical Methods II
 
 This repository generates the [course website](https://socialinteractionlab.github.io/psych710/) for the 2024 version of the course. 
