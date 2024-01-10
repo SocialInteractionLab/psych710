@@ -4,7 +4,7 @@ title: >
 ---
 
 Jan 29 
-: [General Linear Model Review](#) 
+: [Modeling Review](https://socialinteractionlab.github.io/psych710-notes/simulation-2.html)
   : - [Experimentology 7.1-7.2](https://experimentology.io/007-models.html#regression-models)
 : **HW 1 due**{: .label .label-red }
 

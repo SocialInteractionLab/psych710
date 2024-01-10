@@ -10,6 +10,8 @@ seo:
 
 # PSYCH 710: Statistical Methods II
 
+**Course Description**: The goal of this class is to familiarize you with statistical data analysis procedures that build upon and extend the general linear model. We will spend most of the semester on "linear mixed-effects models" and the analysis of non-independent data. 
+
 This repository generates the [course website](https://socialinteractionlab.github.io/psych710/) for the 2024 version of the course. 
 
 ### Local development
