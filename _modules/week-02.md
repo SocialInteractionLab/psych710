@@ -6,12 +6,12 @@ title: >
 Jan 29 
 : [General Linear Model Review](#) 
   : - [Experimentology 7.1-7.2](https://experimentology.io/007-models.html#regression-models)
-: **HW 1 due**{: .label .label-red }
 
 Jan 31
 : [Power Analysis](#)
   : - [Experimentology 10.4](https://experimentology.io/010-sampling.html#sample-size-planning)
-    - [Cohen (1992)](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf)
+: **HW 1 due**{: .label .label-red }
+  : - [Button et al (2003)](https://www.ed.ac.uk/sites/default/files/atoms/files/nrn3475.pdf)
 
 Feb 2
 : **Lab**{: .label .label-purple } [TBD](#)
