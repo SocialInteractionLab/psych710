@@ -4,6 +4,6 @@ title: Calendar
 description: The weekly event calendar.
 ---
 
-{% for event in site.events %}
-{{ event }}
+{% for calendar in site.calendars %}
+{{ calendar }}
 {% endfor %}
