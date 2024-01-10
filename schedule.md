@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Schedule 
+description: Listing of course modules and topics.
 ---
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+# Schedule
+
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}

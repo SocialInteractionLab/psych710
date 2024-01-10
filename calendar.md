@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Calendar
-description: Listing of course modules and topics.
+description: The weekly event calendar.
 ---
 
-# Calendar
-
-{% for module in site.modules %}
-{{ module }}
+{% for event in site.events %}
+{{ event }}
 {% endfor %}
