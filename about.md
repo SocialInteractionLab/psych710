@@ -18,16 +18,41 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+This course offers an introduction to advanced topics in statistics with the focus of understanding the kind of data we see in the behavioral and social sciences. The aim is for statistical concepts to be tightly interwoven with the practice of psychological research, where we build models and work with data in R. The centerpiece of the course is to achieve a deep understanding of the linear mixed-effects model, which we will approach from both a frequentist and Bayesian perspective. Along the way, other topics will be visited (and revisited), including notions of power, measurement, non-parametric statistics, and model comparison.
 
-## Lecture
+## Course Requirements and Grades: 
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Course requirements include regular attendance, active participation in class discussions and weekly labs, and completion of all exams and homework assignments. There will be two closed-book exams completed in class to assess conceptual knowledge, as well as 14 homework assignments, which will involve hands-on application of the material. These assignments are issued Wednesday afternoon and are due the following Wednesday morning at 8:00 am. Eleven of these assignments are relatively short "weekly homework assignments," graded on a pass/fail basis; three of these assignments are longer "comprehensive homework assignments," graded on a percentage scale. These components are assigned the following weights:
+
+* 45%: Comprehensive homeworks
+* 20%: Weekly homeworks 
+* 30%: In-class exams
+* 5%: Participation
+
+And course grades are assigned as follows: A = 92- 100%, AB = 88-92%, B = 82-88%, BC = 78-82%, C = 78% and below:
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+Our course notes are available online [here](https://socialinteractionlab.github.io/psych710-notes/).
+For many classes, there will be assigned readings and/or accompanying online interactive tutorials link in the [schedule](/schedule). There is no official course textbook, although much of the presentation is loosely sourced from Gelman & Hill's *[Data analysis using regression and multilevel / hierarchical models](https://www.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Models/dp/052168689X)* and McElreath's *[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)* which are regarded as gold standard for mixed-effects models and Bayesian data analysis, respectively. 
 
-## Assignments
+## Policies
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+Please familiarize yourself with the honor code. We will adhere to it and follow through on its penalty guidelines.
+
+### When is the weekly homework due?
+
+Each week, we will make the homework available on Wednesday afternoon after class. The homework is then due the following Wednesday by 8am.
+
+### What if I turn my homework in late?
+
+You will have 5 slip days in total. If you return a homework within 24h after the deadline, this costs you one slip day (or 2 slip days if you return it within 48h, etc.). If you’ve use up all your slip days, late homework submissions from that point on will receive a score of 0.
+
+### Can we work in groups?
+
+You are encouraged to work and study in groups. However, your writeup must be your own (both the coding as well as any written text). You will indicate who you worked with on your writeup.
+
+## Feedback
+
+We welcome feedback regarding the course at any point! Please feel free to email us directly or come to office hours to discuss.
+

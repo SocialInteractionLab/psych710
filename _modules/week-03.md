@@ -1,17 +1,15 @@
 ---
 title: >
-  Week 2: Power
+  Week 3: Contrasts
 ---
 
-Jan 29 
-: [Modeling Review](https://socialinteractionlab.github.io/psych710-notes/simulation-2.html)
+Feb 5
+: [Contrasts](https://socialinteractionlab.github.io/psych710-notes/simulation-2.html)
   : - [Experimentology 7.1-7.2](https://experimentology.io/007-models.html#regression-models)
 : **HW 1 due**{: .label .label-red }
 
-Jan 31
-: [Power Analysis](#)
-  : - [Experimentology 10.4](https://experimentology.io/010-sampling.html#sample-size-planning)
-    - [Cohen (1992)](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf)
+Feb 7
+: [Guest Lecture (TBD)](#)
 
-Feb 2
+Feb 9
 : **Lab**{: .label .label-purple } [TBD](#)
