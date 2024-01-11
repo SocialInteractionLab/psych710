@@ -9,7 +9,7 @@ Feb 19
 
 Feb 21
 : [Linking functions & logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
-  :
+  : - [TBD](#)
 : **HW 4 due**{: .label .label-red }
 
 Feb 23
