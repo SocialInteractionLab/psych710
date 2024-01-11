@@ -1,6 +1,6 @@
 ---
 title: >
-  Week 4: Generalized linear model
+  Week 5: Generalized linear model
 ---
 
 Feb 19
@@ -8,7 +8,7 @@ Feb 19
   : - [Experimentology 7.3](https://experimentology.io/007-models.html#regression-models)
 
 Feb 21
-: [Linking functions](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
+: [Linking functions & Logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
 : **HW 4 due**{: .label .label-red }
 
 Feb 23

@@ -4,8 +4,8 @@ title: >
 ---
 
 Feb 5
-: [Repeated Measures](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-1.html)
-  : - [Experimentology 7.3](https://experimentology.io/007-models.html#regression-models)
+: [Repeated Measurements](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-1.html)
+  : - [Gelman & Hill 11.1-](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter11.pdf)
 
 Feb 7
 : [Nonindependent Data (Guest Lecture)](#)

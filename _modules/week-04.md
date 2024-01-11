@@ -4,11 +4,13 @@ title: >
 ---
 
 Feb 12
-: [Partial Pooling](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-2.html)
-  : - [Experimentology 7.3](https://experimentology.io/007-models.html#regression-models)
+: [Partial Pooling & Generalizability](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-2.html)
+  : - [Gelman & Hill 12.1-12.9](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter12.pdf)
+    - [Yarkoni (2022)](https://mzettersten.github.io/assets/pdf/ManyBabies_BBS_commentary.pdf)
 
 Feb 14
-: [Pitfalls and model inspection](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-3.html)
+: [Pitfalls & model inspection](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-3.html)
+  : - [Barr et al (2013)](https://davebraun.net/dissertation/experiments/analysis/exp2/scripts/exploratory/randomEffects/barr_et_al_2013.pdf)
 : **HW 3 due**{: .label .label-red }
 
 Feb 16
