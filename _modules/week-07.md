@@ -3,12 +3,11 @@ title: >
   Week 7: Exam & Review 
 ---
 
-Feb 26
+Mar 4
 : [Review session](#)
 
-Feb 28
+Mar 6
 : [In-class exam](#)
-: **Comprehensive 1 due**{: .label .label-red }
 
-March 1
+Mar 8
 : **Lab**{: .label .label-purple } [TBD](#)

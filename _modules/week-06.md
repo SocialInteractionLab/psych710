@@ -13,5 +13,5 @@ Feb 28
   : - [Lynn & Barrett (2014)](https://www.affective-science.org/pubs/2014/lynn-barrett-2014.pdf)
 : **Comprehensive 1 due**{: .label .label-red }
 
-March 1
+Mar 1
 : **Lab**{: .label .label-purple } [TBD](#)
