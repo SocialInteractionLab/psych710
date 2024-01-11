@@ -5,7 +5,8 @@ title: >
 
 Feb 5
 : [Repeated Measurements](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-1.html)
-  : - [Gelman & Hill 11.1-](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter11.pdf)
+  : - [Gelman & Hill 11.1-11.5](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter11.pdf)
+    - [Judd et al (2012)](https://web.archive.org/web/20170809144756id_/http://webcom.upmf-grenoble.fr/LIP/Perso/DMuller/M2R/R_et_Mixed/documents/Journal%20of%20Personality%20and%20Social%20Psychology%202012%20Judd.pdf)
 
 Feb 7
 : [Nonindependent Data (Guest Lecture)](#)
