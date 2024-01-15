@@ -12,7 +12,7 @@ Feb 7
 : **HW 2 due**{: .label .label-red }
 : [Power Analysis](https://socialinteractionlab.github.io/psych710-notes/power.html)
   : - [Experimentology 10.4](https://experimentology.io/010-sampling.html#sample-size-planning)
-  : - [Button et al (2003)](https://www.ed.ac.uk/sites/default/files/atoms/files/nrn3475.pdf)
+    - [Button et al (2003)](https://www.ed.ac.uk/sites/default/files/atoms/files/nrn3475.pdf)
 
 Feb 9
 : **Lab**{: .label .label-purple } [TBD](#)
