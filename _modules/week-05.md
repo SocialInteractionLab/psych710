@@ -9,7 +9,8 @@ Feb 19
 
 Feb 21 **HW 4 due**{: .label .label-red }
 : [Linking functions & logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
-  : - [Gelman & Hill 5.1 - 5.5](#)
+  : - [Gelman & Hill 5.1 - 5.5](https://socialinteractionlab.github.io/psych710//assets/readings/golems.pdf)
+
 
 Feb 23 **Lab**{: .label .label-purple }
 : [TBD](#)
