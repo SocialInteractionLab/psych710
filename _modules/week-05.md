@@ -6,7 +6,7 @@ title: >
 Feb 19
 : [Contrasts](https://socialinteractionlab.github.io/psych710-notes/contrasts.html)
   : - [David (2013)](https://pdfs.semanticscholar.org/a13f/131b618cf68a029a70ed70bbcbe972f509a8.pdf)
-    - [Nicenboim et al (2023), 8.1-8.4](https://vasishth.github.io/bayescogsci/book/ch-contr.html)
+    - [Nicenboim et al (2023), Chap 8](https://vasishth.github.io/bayescogsci/book/ch-contr.html)
 
 Feb 21 **HW 4**{: .label .label-red }
 : [Linking functions & logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
