@@ -1,15 +1,14 @@
 ---
 title: >
-  Week 7: False alarms
+  Week 7: Model comparison
 ---
 
 Mar 4
-: [Multiple comparisons](#)
-  
-Mar 6
-: [Signal detection theory](https://bookdown.org/danbarch/psy_207_advanced_stats_I/signal-detection-theory.html)
-  : - [Lynn & Barrett (2014)](https://www.affective-science.org/pubs/2014/lynn-barrett-2014.pdf)
-: **Comprehensive 1 due**{: .label .label-red }
+: [Model comparison 1](https://socialinteractionlab.github.io/psych710-notes/model-comparison.html)
+  : - [Etz (2018)](https://socialinteractionlab.github.io/psych710/assets/readings/etz-2018.pdf)
 
-Mar 8
-: **Lab**{: .label .label-purple } [TBD](#)
+Mar 6  **Comprehensive 1 due**{: .label .label-red }
+: [Model comparison 2](https://socialinteractionlab.github.io/psych710-notes/model-comparison.html)
+  : - [Roberts & Pashler (2000)](http://laplab.ucsd.edu/articles/Roberts_Pashler2000.pdf)
+Mar 8 **Lab**{: .label .label-purple }
+: [TBD](#)

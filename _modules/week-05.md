@@ -1,17 +1,17 @@
 ---
 title: >
-  Week 5: Generalized linear model
+  Week 5: Linear mixed-effects models 2
 ---
 
 Feb 19
-: [Contrasts](https://socialinteractionlab.github.io/psych710-notes/contrasts.html)
-  : - [David (2013)](https://pdfs.semanticscholar.org/a13f/131b618cf68a029a70ed70bbcbe972f509a8.pdf)
-    - [Nicenboim et al (2023), Chap 8](https://vasishth.github.io/bayescogsci/book/ch-contr.html)
+: [Pitfalls](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-3.html)
+  : - [Barr et al (2013)](https://davebraun.net/dissertation/experiments/analysis/exp2/scripts/exploratory/randomEffects/barr_et_al_2013.pdf)
+    - [Meteyard & Davies (2020)](https://socialinteractionlab.github.io/psych710//assets/readings/meteyard_bestpractices.pdf)
 
 Feb 21 **HW 4**{: .label .label-red }
-: [Linking functions & logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
-  : - [Gelman & Hill 5.1 - 5.5](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter5.pdf)
-    - [MacKay 39.1-39.3](https://socialinteractionlab.github.io/psych710//assets/readings/mackay_chap39.pdf)
+: [Model Inspection & Bootstrapping](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-4.html)
+  : - [Scott (2021)](https://bookdown.org/jgscott/DSGI/the-bootstrap.html)
+    - [Luke (2017)](https://socialinteractionlab.github.io/psych710//assets/readings/luke2017.pdf)
 
 
 Feb 23 

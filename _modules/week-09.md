@@ -1,13 +1,13 @@
 ---
 title: >
-  Week 9: Spring recess
+  Week 9: Exam & Review
 ---
 
-Mar 25
-: No class!
+Mar 18
+: [Review session](#)
 
-Mar 27
-: No class!
+Mar 20
+: [In-class exam](#)
 
-Mar 29
-: No class!
+Mar 22
+: **Lab**{: .label .label-purple } [TBD](#)
