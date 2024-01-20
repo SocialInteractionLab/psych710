@@ -13,5 +13,5 @@ Jan 24
     - [Cummings (2014)](https://uopsych.github.io/psy611/readings/Cumming_2014.pdf)
 
 Jan 26
-: **Lab**{: .label .label-purple } [TBD](#)
+: **Lab**{: .label .label-purple } 
 
