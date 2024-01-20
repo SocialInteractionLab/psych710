@@ -1,6 +1,6 @@
 ---
 title: >
-  Week 1: Intro & Recap 
+  Week 1: Foundations
 ---
 
 Jan 22

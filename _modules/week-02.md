@@ -1,6 +1,6 @@
 ---
 title: >
-  Week 2: Power
+  Week 2: Models
 ---
 
 Jan 29 
@@ -8,10 +8,10 @@ Jan 29
   : - [Experimentology 6.1-6.5](https://experimentology.io/006-inference.html)
     - [Statistical Golems](https://socialinteractionlab.github.io/psych710//assets/readings/golems.pdf)
 
-Jan 31 **HW 1 due**{: .label .label-red }
+Jan 31 **HW 1**{: .label .label-red }
 : [Regression](https://socialinteractionlab.github.io/psych710-notes/linear-regression.html) Review 
   : - [Experimentology 7.1-7.2](https://experimentology.io/007-models.html#regression-models)
     - [Interactive visualization](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression)
 
-Feb 2 **Lab**{: .label .label-purple }
-: [TBD](#)
+Feb 2 
+: **Lab**{: .label .label-purple }
