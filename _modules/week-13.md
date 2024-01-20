@@ -8,7 +8,6 @@ Apr 15
 
 Apr 17
 : [Bayesian mixed-effects models](https://bookdown.org/danbarch/psy_207_advanced_stats_I/signal-detection-theory.html)
-  : **Comprehensive 1 due**{: .label .label-red }
 
 Apr 19
 : **Lab**{: .label .label-purple } [TBD](#)
