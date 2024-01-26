@@ -10,5 +10,6 @@ Mar 4
 Mar 6
 : [Model comparison 2](https://socialinteractionlab.github.io/psych710-notes/model-comparison.html)
   : - [Roberts & Pashler (2000)](http://laplab.ucsd.edu/articles/Roberts_Pashler2000.pdf)
+
 Mar 8 
 : **Lab**{: .label .label-purple }

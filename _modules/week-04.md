@@ -11,5 +11,6 @@ Feb 12
 Feb 14 **HW 2 DUE**{: .label .label-red }
 : [Generalizability](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-2.html)
   : - [Yarkoni (2022)](https://mzettersten.github.io/assets/pdf/ManyBabies_BBS_commentary.pdf)
+
 Feb 16 
 : **Lab**{: .label .label-purple }
