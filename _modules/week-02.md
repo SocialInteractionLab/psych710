@@ -11,8 +11,8 @@ Jan 29
 
 Jan 31
 : [Regression](https://socialinteractionlab.github.io/psych710-notes/linear-regression.html) Review 
-  : - [**Experimentology 7.1-7.2**](https://experimentology.io/007-models.html#regression-models)
-    - [Interactive visualization](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression)
+  : - [**Gelman & Hill 3.1-3.5**](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter3.pdf)
+    - [Experimentology 7.1-7.2](https://experimentology.io/007-models.html#regression-models)
 
 Feb 2 
 : **Lab**{: .label .label-purple }
