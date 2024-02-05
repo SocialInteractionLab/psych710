@@ -24,14 +24,14 @@ calendar:
       - name: Lecture
         start: 2:30 PM
         end: 3:45 PM
-        location: Van Vleck B115
+        location: Humanities 1221
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 2:30 PM
         end: 3:45 PM
-        location: Van Vleck B115
+        location: Humanities 1221
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
