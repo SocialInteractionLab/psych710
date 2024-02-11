@@ -21,12 +21,25 @@ calendar:
   - name: ''
   - name: Monday
     events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Brogden 297 (Nick)
       - name: Lecture
         start: 2:30 PM
         end: 3:45 PM
         location: Humanities 1221
   - name: Tuesday
-  - name: Wednesday
+    events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Brogden 626 (LiChen)
+      - name: Office Hours
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Brogden 511 (Ben)
+- name: Wednesday
     events:
       - name: Lecture
         start: 2:30 PM
@@ -35,7 +48,7 @@ calendar:
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
-        location: Brogden 517
+        location: Brogden 517 (Robert)
   - name: Thursday
   - name: Friday
     events:
