@@ -39,7 +39,7 @@ calendar:
         start: 4:00 PM
         end: 5:00 PM
         location: Brogden 511 (Ben)
-- name: Wednesday
+  - name: Wednesday
     events:
       - name: Lecture
         start: 2:30 PM
