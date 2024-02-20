@@ -21,10 +21,8 @@ description: >-
 
 This course offers an introduction to advanced topics in statistics with the focus of understanding the kind of data we see in the behavioral and social sciences. The aim is for statistical concepts to be tightly interwoven with the practice of psychological research, where we build models and work with data in R. The centerpiece of the course is to achieve a deep understanding of the linear mixed-effects model, which we will approach from both a frequentist and Bayesian perspective. Along the way, other topics will be visited (and revisited), including notions of power, measurement, non-parametric statistics, and model comparison.
 
-**Credits**: 4
-**Requisites**: PSYCH 610
+**Credits**: 4 --- 
 **Instructional Mode**: In-person
-
 
 ## Course Requirements and Grades: 
 
