@@ -5,6 +5,7 @@ title: >
 
 Mar 11
 : [Multiple comparisons](#)
+  : - [Gelman et al., 2009](http://www.stat.columbia.edu/~gelman/research/published/multiple2f.pdf)
   
 Mar 13 **CA 1 DUE**{: .label .label-red }
 : [Signal detection theory](https://bookdown.org/danbarch/psy_207_advanced_stats_I/signal-detection-theory.html)
