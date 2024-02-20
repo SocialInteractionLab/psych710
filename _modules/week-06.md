@@ -10,7 +10,7 @@ Feb 26
     
 
 Feb 28 **HW 3 DUE**{: .label .label-red }
-: [Linking functions & logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
+: [Logistic regression](https://socialinteractionlab.github.io/psych710-notes/generalized-linear-model.html)
   : - [**Gelman & Hill 5.1 - 5.5**](https://socialinteractionlab.github.io/psych710//assets/readings/gelmanhill_chapter5.pdf)
     - [MacKay 39.1-39.3](https://socialinteractionlab.github.io/psych710//assets/readings/mackay_chap39.pdf)
 
