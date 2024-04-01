@@ -9,9 +9,8 @@ Feb 19
     - [Barr et al (2013)](https://davebraun.net/dissertation/experiments/analysis/exp2/scripts/exploratory/randomEffects/barr_et_al_2013.pdf)
 
 Feb 21 **HW 2 DUE**{: .label .label-red }
-: [Model Inspection & Bootstrapping](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-4.html)
-  : - [Scott (2021)](https://bookdown.org/jgscott/DSGI/the-bootstrap.html)
-    - [Luke (2017)](https://socialinteractionlab.github.io/psych710//assets/readings/luke2017.pdf)
+: [Model Inspection](https://socialinteractionlab.github.io/psych710-notes/linear-mixed-effects-models-4.html)
+  : - [Luke (2017)](https://socialinteractionlab.github.io/psych710//assets/readings/luke2017.pdf)
 
 Feb 23 
 : **Lab**{: .label .label-purple }

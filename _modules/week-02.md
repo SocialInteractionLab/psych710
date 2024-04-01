@@ -5,7 +5,7 @@ title: >
 
 Jan 29 
 : [Modeling](https://socialinteractionlab.github.io/psych710-notes/modeling-data.html) & [Inference](https://socialinteractionlab.github.io/psych710-notes/inference.html) Review
-  : - [**Statistical Golems**](https://socialinteractionlab.github.io/psych710//assets/readings/golems.pdf)
+  : - [**McElreath 1.1-1.4**](https://socialinteractionlab.github.io/psych710//assets/readings/golems.pdf)
     - [Experimentology 6.1-6.5](https://experimentology.io/006-inference.html)
 
 

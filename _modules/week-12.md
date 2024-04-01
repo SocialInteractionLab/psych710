@@ -5,9 +5,11 @@ title: >
 
 Apr 8
 : [Bayesian regression](https://socialinteractionlab.github.io/psych710-notes/model-comparison.html)
+  : - [**McElreath 4.4**](https://socialinteractionlab.github.io/psych710/assets/readings/McElreath_Chapter4.pdf)
 
-Apr 10 **HW 4 DUE**{: .label .label-red }
+Apr 10 
 : [Credible intervals](https://bookdown.org/danbarch/psy_207_advanced_stats_I/signal-detection-theory.html)
-
+  : - [**McElreath 3.3**]()
+  
 Apr 12
 : **Lab**{: .label .label-purple } [TBD](#)
