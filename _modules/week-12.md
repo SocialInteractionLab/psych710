@@ -12,6 +12,7 @@ Apr 8
 Apr 10 
 : Group work
     
-Apr 12 **Project Proposal DUE**{: .label .label-red }
+Apr 12
 
 : **Lab**{: .label .label-purple } [TBD](#)
+  : -  **Project Proposal DUE**{: .label .label-red }

@@ -9,5 +9,6 @@ Apr 15
 Apr 17
 : Group work
 
-Apr 19 **Project report DUE**{: .label .label-red }
+Apr 19 
 : **Lab**{: .label .label-purple } [TBD](#)
+  : - **Project report DUE**{: .label .label-red }
