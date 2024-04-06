@@ -7,7 +7,7 @@ Apr 29
 : [Review](#)
 
 May 1 
-: [In-class exam](#)
+: [Project presentations](#)
 
 May 3
 : No lab
