@@ -10,5 +10,4 @@ Apr 17
 : Group work
 
 Apr 19 
-: **Lab**{: .label .label-purple } [TBD](#)
-  : - **Project report DUE**{: .label .label-red }
+: **Lab**{: .label .label-purple } 
